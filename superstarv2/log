@@ -1,0 +1,4535 @@
+Loaded backup database.
+Superstar started on 0.0.0.0:8081:
+Saved backup database.
+Connection: 127.0.0.1 GET /
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475534521031
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475536607985
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 GET /favicon.ico
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475536797762
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 GET /favicon.ico
+Connection: 127.0.0.1 POST /superstar/
+Saved backup database.
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475536847894
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 GET /favicon.ico
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475536963793
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 GET /favicon.ico
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475537070257
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 GET /favicon.ico
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475537137730
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 GET /favicon.ico
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Saved backup database.
+Connection: 127.0.0.1 POST /superstar/
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475543982674
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 GET /favicon.ico
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475544010835
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 GET /favicon.ico
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475544045469
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 GET /favicon.ico
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /robots/
+Saved backup database.
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475544058556
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 GET /favicon.ico
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475544127027
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 GET /favicon.ico
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475544180311
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 GET /favicon.ico
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475544215009
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 GET /favicon.ico
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Saved backup database.
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475544290375
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475544352343
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475544456574
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475544542156
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475544632133
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475552144185
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475552184245
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475554252786
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475554902900
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475554986572
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475555024350
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475555068775
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475555864620
+Connection: 127.0.0.1 GET /favicon.ico
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475555868664
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475556374389
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475556504139
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475558393503
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475558525537
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475558716677
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Saved backup database.
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475559051438
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475559074648
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475560235002
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Saved backup database.
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475560438224
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Connection: 127.0.0.1 GET /robots/
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.pretty.css
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.css
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.css
+Connection: 127.0.0.1 GET /css/robots.css
+Connection: 127.0.0.1 GET /js/jquery/jquery.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.sortable.min.js
+Connection: 127.0.0.1 GET /js/jquery/jquery.gridster.min.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.js
+Connection: 127.0.0.1 GET /js/bootstrap-notify/bootstrap-notify.min.js
+Connection: 127.0.0.1 GET /js/codemirror/codemirror.js
+Connection: 127.0.0.1 GET /js/codemirror/clike_arduino_nxt.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/edit/matchbrackets.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/dialog/dialog.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/search.js
+Connection: 127.0.0.1 GET /js/codemirror/addon/search/searchcursor.js
+Connection: 127.0.0.1 GET /js/cryptojs/hmac-sha256.js
+Connection: 127.0.0.1 GET /js/jscolor/jscolor.js
+Connection: 127.0.0.1 GET /js/processing/processing-1.4.1.min.js
+Connection: 127.0.0.1 GET /js/three/three.min.js
+Connection: 127.0.0.1 GET /js/three/controls/OrbitControls.js
+Connection: 127.0.0.1 GET /js/three/loaders/OBJLoader.js
+Connection: 127.0.0.1 GET /js/three/loaders/STLLoader.js
+Connection: 127.0.0.1 GET /js/moment/moment.min.js
+Connection: 127.0.0.1 GET /js/3d.js
+Connection: 127.0.0.1 GET /js/arduino_emulator.js
+Connection: 127.0.0.1 GET /js/Chart.min.js
+Connection: 127.0.0.1 GET /js/chart_interface.js
+Connection: 127.0.0.1 GET /js/chatter.js
+Connection: 127.0.0.1 GET /js/config_editor.js
+Connection: 127.0.0.1 GET /js/doorways.js
+Connection: 127.0.0.1 GET /js/drag_list.js
+Connection: 127.0.0.1 GET /js/dropdown.js
+Connection: 127.0.0.1 GET /js/editor.js
+Connection: 127.0.0.1 GET /js/input.js
+Connection: 127.0.0.1 GET /js/input_validation.js
+Connection: 127.0.0.1 GET /js/map.js
+Connection: 127.0.0.1 GET /js/modal.js
+Connection: 127.0.0.1 GET /js/modal_change_auth.js
+Connection: 127.0.0.1 GET /js/modal_connect.js
+Connection: 127.0.0.1 GET /js/modal_createcancel.js
+Connection: 127.0.0.1 GET /js/modal_createnew.js
+Connection: 127.0.0.1 GET /js/modal_loadstate.js
+Connection: 127.0.0.1 GET /js/modal_location.js
+Connection: 127.0.0.1 GET /js/modal_uploadmap.js
+Connection: 127.0.0.1 GET /js/modal_ok.js
+Connection: 127.0.0.1 GET /js/modal_yesno.js
+Connection: 127.0.0.1 GET /js/pilot_interface.js
+Connection: 127.0.0.1 GET /js/pilot_status.js
+Connection: 127.0.0.1 GET /js/prettify.js
+Connection: 127.0.0.1 GET /js/quizbot.js
+Connection: 127.0.0.1 GET /js/resizer.js
+Connection: 127.0.0.1 GET /js/robot_2wd.js
+Connection: 127.0.0.1 GET /js/robot_menu.js
+Connection: 127.0.0.1 GET /js/robot_network.js
+Connection: 127.0.0.1 GET /js/robot_sim.js
+Connection: 127.0.0.1 GET /js/robot_ui.js
+Connection: 127.0.0.1 GET /js/roomba_sim.js
+Connection: 127.0.0.1 GET /js/sound_player.js
+Connection: 127.0.0.1 GET /js/state_table.js
+Connection: 127.0.0.1 GET /js/state_runner.js
+Connection: 127.0.0.1 GET /js/superstar.js
+Connection: 127.0.0.1 GET /js/tree_viewer.js
+Connection: 127.0.0.1 GET /js/uri.js
+Connection: 127.0.0.1 GET /js/utility.js
+Connection: 127.0.0.1 GET /js/video_widget.js
+Connection: 127.0.0.1 GET /js/UI_builder.js
+Connection: 127.0.0.1 GET /js/xmlhttp.js
+Connection: 127.0.0.1 GET /js/bootstrap/bootstrap.min.css.map
+Connection: 127.0.0.1 GET /images/moose_headonly.png
+Connection: 127.0.0.1 GET /superstar/?uuid=true&rand=1475561551698
+Connection: 127.0.0.1 GET /js/fonts/glyphicons-halflings-regular.woff2
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 POST /superstar/
+Connection: 127.0.0.1 GET /js/jquery/invisible.png
+Connection: 127.0.0.1 GET /models/roomba/body.obj
+Connection: 127.0.0.1 GET /images/Half_Circle_Angles.jpg
+Connection: 127.0.0.1 GET /images/steering_wheel.png
+Connection: 127.0.0.1 GET /images/gauge_needlewell.png
+Connection: 127.0.0.1 GET /images/gauge_needle.png
+Connection: 127.0.0.1 GET /images/gauge_shell.png
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.
+Saved backup database.

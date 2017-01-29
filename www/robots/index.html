@@ -1,0 +1,20 @@
+<html lang="en">
+	<head>
+		<!--#include virtual="/sources.html"-->
+		<!--#include virtual="/navbar.html"-->
+	</head>
+	<body role="document" class="robot.body">
+		<div id="modal_div" class="nohighlight">
+			<div id="menu_div" class="robots menu_div"></div>
+			<div id="gui_div" class="robots gui_div"></div>
+		</div>
+		<script type="text/javascript">
+			var modal_div=document.getElementById("modal_div");
+			var gui_div=document.getElementById("gui_div");
+			var menu_div=document.getElementById("menu_div");
+			var robot_ui=new robot_ui_t(gui_div,menu_div,modal_div);
+			if(!robot_ui)
+				alert("Could not create robot_ui!");
+		</script>
+	</body>
+</html>
